@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "awun0105",
+        "projectKey": "awun0105_streamlit-deployment"
+    }
+}
